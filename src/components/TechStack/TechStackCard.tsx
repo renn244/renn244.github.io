@@ -7,7 +7,7 @@ type TechStackCardProps = {
 
 const TechStackCard = ({ stackname, stackicon, stackknowledgeLevel }: TechStackCardProps) => {
     return (
-        <div className="flex cursor-pointer items-center gap-2 rounded border border-amber-200 px-2 py-2 hover:bg-amber-200 hover:bg-opacity-10 md:gap-3 lg:px-3 h-[82px]">
+        <div className="flex cursor-pointer items-center gap-2 rounded border border-amber-200 px-2 py-2 hover:bg-amber-200/30 hover:bg-opacity-10 md:gap-3 lg:px-3 h-[82px]">
             <div className="flex items-center justify-center lg:p-2">
                 <img width="45" height="45" loading="lazy" className="h-10 w-10" src={stackicon} alt={stackname} />
             </div>

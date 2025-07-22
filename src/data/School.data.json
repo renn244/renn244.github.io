@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sta Clara Elementary School (kindergarten to Grade 6)",
+        "year": "2010-2016",
+        "description": "This is where I learned how to read and write. I also learned the basics of mathematics and science. I also learned how to socialize with other people. As a kid, I was very shy and introverted. I was often absent during this time as I was addicted to playing in computer shops."
+    },
+    {
+        "name": "Sacred Heart Academy Sta Maria Bulacan (HighSchool to Senior HighSchool)",
+        "year": "2017-2023",
+        "description": "During these years, I wasn’t consistent in school, nor in programming, as I was often distracted by video games. However, this was also the time when I discovered my passion for programming. While I didn’t learn it from school, my interest drove me to explore and study programming on my own, fueled by curiosity and determination during this years."
+    },
+    {
+        "name": "Sti College, Sta. Maria (BSIT)",
+        "year": "2023-present",
+        "description": "This is where I ultimately became consistent in my studies, driven by my passion for programming and being in my dream course. I have learned a lot from the curriculum while also continuing to grow through self-study. My dedication has paid off, as I have been achieving good grades and gaining valuable skills for my future career."
+    }
+]
