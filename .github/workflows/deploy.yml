@@ -38,4 +38,4 @@ jobs:
       - name: Deploy to github pages
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npm run deploy
+        run: npm run actions-deploy
