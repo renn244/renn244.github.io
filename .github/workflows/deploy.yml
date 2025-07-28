@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
+        with:
+          ref: master
 
       - name: Set up Node.JS
         uses: actions/setup-node
